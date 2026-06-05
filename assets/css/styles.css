@@ -90,6 +90,57 @@ a {
   border-radius: 12px;
 }
 
+.card p {
+  margin-top: 0.75rem;
+}
+
+.card-actions {
+  margin-top: auto;
+  padding-top: 1.5rem;
+}
+
+.card-actions .btn {
+  display: inline-block;
+  min-width: 130px;
+  text-align: center;
+}
+
+.section-intro {
+  max-width: 800px;
+  margin-top: 0.75rem;
+  color: #cbd5e1;
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+
+.skill-tags span {
+  display: inline-block;
+  padding: 0.45rem 0.75rem;
+  border: 1px solid #38bdf8;
+  border-radius: 999px;
+  color: #e5e7eb;
+  background: rgba(56, 189, 248, 0.08);
+  font-size: 0.95rem;
+}
+
+.education-card {
+  margin-top: 1.5rem;
+}
+
+.education-card h4 {
+  margin-top: 1.5rem;
+}
+
+.muted {
+  color: #94a3b8;
+  margin: 0.35rem 0 1rem;
+}
+
 footer {
   text-align: center;
   padding: 2rem;
