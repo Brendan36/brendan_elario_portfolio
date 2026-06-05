@@ -88,6 +88,11 @@ a {
   background: #1e293b;
   padding: 1.5rem;
   border-radius: 12px;
+
+  display: flex;
+  flex-direction: column;
+
+  height: 100%;
 }
 
 .card p {
