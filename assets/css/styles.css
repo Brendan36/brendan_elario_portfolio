@@ -175,6 +175,14 @@ a {
   margin: 0.35rem 0 1rem;
 }
 
+.contact-photo {
+  margin-top: 1rem;
+  width: 100%;
+  max-width: 300px;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
 .contact-form {
   display: flex;
   flex-direction: column;
