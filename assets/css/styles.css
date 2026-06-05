@@ -45,10 +45,11 @@ a {
 }
 
 .nav-logo {
-  height: 40px; 
-  width: auto;  
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
   display: block;
-  }
+}
 
 .nav-links {
     margin-left: auto;
